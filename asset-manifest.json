@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FrasatAliPF/static/css/main.709769ae.css",
-    "main.js": "/FrasatAliPF/static/js/main.9b5e4b5c.js",
+    "main.js": "/FrasatAliPF/static/js/main.734957a4.js",
     "static/js/453.f0fcbd52.chunk.js": "/FrasatAliPF/static/js/453.f0fcbd52.chunk.js",
     "static/media/4.png": "/FrasatAliPF/static/media/4.357581dbd84fdea618c9.png",
     "static/media/R_1.png": "/FrasatAliPF/static/media/R_1.f8922819559207f398e3.png",
@@ -20,11 +20,11 @@
     "static/media/FA_PNG.png": "/FrasatAliPF/static/media/FA_PNG.5bd62976f9de43cff4ad.png",
     "index.html": "/FrasatAliPF/index.html",
     "main.709769ae.css.map": "/FrasatAliPF/static/css/main.709769ae.css.map",
-    "main.9b5e4b5c.js.map": "/FrasatAliPF/static/js/main.9b5e4b5c.js.map",
+    "main.734957a4.js.map": "/FrasatAliPF/static/js/main.734957a4.js.map",
     "453.f0fcbd52.chunk.js.map": "/FrasatAliPF/static/js/453.f0fcbd52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.709769ae.css",
-    "static/js/main.9b5e4b5c.js"
+    "static/js/main.734957a4.js"
   ]
 }
