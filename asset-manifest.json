@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/FrasatAliPF/static/css/main.709769ae.css",
+    "main.js": "/FrasatAliPF/static/js/main.9b5e4b5c.js",
+    "static/js/453.f0fcbd52.chunk.js": "/FrasatAliPF/static/js/453.f0fcbd52.chunk.js",
+    "static/media/4.png": "/FrasatAliPF/static/media/4.357581dbd84fdea618c9.png",
+    "static/media/R_1.png": "/FrasatAliPF/static/media/R_1.f8922819559207f398e3.png",
+    "static/media/bg3.png": "/FrasatAliPF/static/media/bg3.5f7e04c1e932af72198b.png",
+    "static/media/7.png": "/FrasatAliPF/static/media/7.c31096237a4482607be5.png",
+    "static/media/3.png": "/FrasatAliPF/static/media/3.3e516fcbe62149845447.png",
+    "static/media/1.png": "/FrasatAliPF/static/media/1.ffdd809b295cb2d1a7c5.png",
+    "static/media/5.png": "/FrasatAliPF/static/media/5.894fd50d4259f4de3699.png",
+    "static/media/bg4.png": "/FrasatAliPF/static/media/bg4.6fb2117e6fe2279cf881.png",
+    "static/media/2.png": "/FrasatAliPF/static/media/2.5ba05f80391043fb0817.png",
+    "static/media/R_2.png": "/FrasatAliPF/static/media/R_2.a1f1b391aa5c5a25147c.png",
+    "static/media/6.png": "/FrasatAliPF/static/media/6.384f2723897a211067fe.png",
+    "static/media/robot_think.png": "/FrasatAliPF/static/media/robot_think.dd3a6fe5cb1fee0be613.png",
+    "static/media/bg.jpg": "/FrasatAliPF/static/media/bg.a074a5e550d76d15d51a.jpg",
+    "static/media/robot_contact.png": "/FrasatAliPF/static/media/robot_contact.ec40e3bc8d656b5286e8.png",
+    "static/media/FA_PNG.png": "/FrasatAliPF/static/media/FA_PNG.5bd62976f9de43cff4ad.png",
+    "index.html": "/FrasatAliPF/index.html",
+    "main.709769ae.css.map": "/FrasatAliPF/static/css/main.709769ae.css.map",
+    "main.9b5e4b5c.js.map": "/FrasatAliPF/static/js/main.9b5e4b5c.js.map",
+    "453.f0fcbd52.chunk.js.map": "/FrasatAliPF/static/js/453.f0fcbd52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.709769ae.css",
+    "static/js/main.9b5e4b5c.js"
+  ]
+}
