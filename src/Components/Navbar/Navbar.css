@@ -1,0 +1,218 @@
+/* body {
+    margin: 0px;
+    padding: 0px;
+    background: url('bg2.pn');
+    background-position: fixed;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+} */
+
+/* =================================================  */
+
+
+
+/* ========================   NAV BAR Start   =========================  */
+
+.fixed {
+    position: fixed;
+    transition: all ease-in-out 1s;
+}
+
+
+a {
+    text-decoration: none;
+
+}
+
+.nav_out_main {
+    /* border: 2px solid red; */
+    height: fit-content;
+
+}
+
+/* .nav_left_main {
+    border: 2px solid green;
+    height: 140px;
+    text-align: right;
+
+} */
+
+.nav_right_main {
+    /* border: 2px solid blue; */
+    height: fit-content;
+}
+
+/* ----------------------------- */
+.navbar-toggler-icon {
+    background-color: white;
+    border-radius: 4px;
+    /* ----------------- */
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.logo {
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top: -5px;
+}
+
+
+/* main nav bar out div  */
+.navbar {
+    /* border: 2px solid magenta; */
+    /* border-radius: 30px; */
+    height: fit-content;
+    margin-top: 10px;
+    /* background-color: red; */
+}
+
+.nav_bar_main_container {
+
+    /* border: 2px solid white; */
+    border-radius: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 50px;
+}
+
+.nav_bar_logo_bar {
+    margin-top: 0px;
+    margin-left: 2px;
+    /* border: 2px solid red; */
+    height: fit-content;
+}
+
+.nav_bar_title_bar {
+    margin-top: 15px;
+    margin-left: 10px;
+    /* border: 2px solid red; */
+    height: fit-content;
+}
+
+.list_main {
+    margin-top: 20px;
+    margin-left: 530px;
+    /* border: 2px solid green; */
+    height: fit-content;
+}
+
+.nav-item {
+    height: fit-content;
+    /* border: 2px solid goldenrod; */
+    border-radius: 3px;
+}
+
+/* -------------------------------------  */
+.title {
+    color: white;
+    font-size: 30px;
+    /* font-family: 'Agdasima', sans-serif; */
+}
+
+.title:hover {
+    text-shadow: 2px 2px 5px yellow;
+    font-size: 30px;
+    /* font-family: 'Agdasima', sans-serif; */
+}
+
+.home-btn {
+    /* border: 2px solid white; */
+    /* border-radius: 20px; */
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    padding: 0 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    /* width: 100px; */
+    /* text-align: center; */
+}
+
+.home-btn:hover {
+
+    /* border-bottom: 2px solid white; */
+    /* border-radius: 3px; */
+    text-shadow: 2px 2px 5px yellow;
+
+}
+
+/* ========================   NAV BAR END   =========================  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {
+    .list_main {
+        margin-left: 430px;
+    }
+}
+
+@media only screen and (max-width: 1128px) {
+    .list_main {
+        margin-left: 330px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+
+    .title {
+        color: white;
+        font-size: 15px;
+    }
+
+    .title:hover {
+        text-shadow: 2px 2px 5px yellow;
+        font-size: 15px;
+    }
+
+    .list_main {
+        padding-top: 20px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nav_bar_main_container {
+        border-radius: 20px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.3);
+        height: auto;
+        padding-bottom: 0px;
+    }
+
+    body {
+        background-color: black;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {
+    .list_main {
+        border-top: 2px solid white;
+    }
+}

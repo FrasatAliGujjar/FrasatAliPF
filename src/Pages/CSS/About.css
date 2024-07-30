@@ -1,0 +1,81 @@
+.left {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    color: black;
+    flex-direction: column;
+}
+
+.right {
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 400px;
+    color: black;
+    flex-direction: column;
+}
+
+.think_pic {
+    width: 300px;
+    filter: drop-shadow(2px 2px 4px black);
+}
+
+/* ====================================================================== */
+.about-btn {
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.pro-button:hover {
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 5px white;
+}
+
+
+
+
+/* =================================================  */
+@media only screen and (max-width: 1920px) {}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (max-width: 1128px) {}
+
+@media only screen and (max-width: 992px) {
+    .left {
+        width: 400px;
+        height: 400px;
+        color: white;
+        flex-direction: column;
+    }
+
+    .right {
+        width: 400px;
+        height: 400px;
+        color: white;
+        flex-direction: column;
+    }
+
+    .think_pic {
+        width: 150px;
+
+    }
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 535px) {}
+
+@media only screen and (max-width: 480px) {}
+
+@media only screen and (max-width: 412px) {}

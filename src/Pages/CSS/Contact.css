@@ -1,0 +1,26 @@
+.form_box {
+    /* border: 2px solid red; */
+    width: 100%;
+    flex-direction: column;
+}
+
+.about_form {
+    width: 400px;
+    width: 100%;
+    height: fit-content;
+    padding: 30px;
+    padding-bottom: 50px;
+    border-radius: 15px;
+    border: 2px solid white;
+    background: linear-gradient(135deg, #000000, #434343);
+    flex-direction: column;
+    color: white;
+}
+
+.contact_pic{
+    width: 400px;
+}
+
+.contact_btn{
+ margin-top: -80px;   
+}

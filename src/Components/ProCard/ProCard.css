@@ -1,0 +1,44 @@
+.pro_main {
+    width: 30rem;
+    margin-bottom: 10px;
+}
+
+.pro_main:hover {
+    box-shadow: 2px 2px 5px black;
+}
+
+.pro_img {
+    /* Add your styles for the image here */
+    height: 250px;
+
+}
+
+.pro_body {
+    /* Add your styles for the card body here */
+    background: linear-gradient(135deg, #000000, #434343);
+    color: white;
+    height: 175px;
+    padding: 10px;
+}
+
+/* ====================================================================== */
+.pro-button {
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.pro-button:hover {
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    padding: 5px 20px;
+    text-align: center;
+    box-shadow: 2px 2px 5px white;
+}
